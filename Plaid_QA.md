@@ -15,7 +15,7 @@ WITH
       "access_token": "YOUR_PUBLIC_KEY",
       "plaid_env": "ENV"
     };
-``` sql
+``` 
 
 ![CREATE_DATABASE]('/c/Users/Mohammed Shakeel/Documents/shakeel/Screenshot (67).png')
 
