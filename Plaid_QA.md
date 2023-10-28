@@ -17,7 +17,7 @@ WITH
     };
 ``` 
 
-![CREATE_DATABASE]('/c/Users/Mohammed Shakeel/Documents/shakeel/Screenshot (67).png')
+![CREATE_DATABASE](/c/Users/Mohammed Shakeel/Documents/shakeel/Screenshot (67).png)
 
 **2. Testing CREATE PREDICTOR**
 
@@ -36,7 +36,7 @@ HORIZON 15
 USING ENGINE = 'statsforecast';
 ```
 
-![CREATE_PREDICTOR]('/c/Users/Mohammed Shakeel/Documents/shakeel/Screenshot (66).png')
+![CREATE_PREDICTOR](/c/Users/Mohammed Shakeel/Documents/shakeel/Screenshot (66).png)
 
 **3. Testing SELECT FROM PREDICTOR**
 
@@ -45,7 +45,7 @@ SELECT * FROM mindsdb.models
 WHERE name='expense_prediction'
 ```
 
-![SELECT_FROM]('/c/Users/Mohammed Shakeel/Documents/shakeel/Screenshot (77).png')
+![SELECT_FROM](/c/Users/Mohammed Shakeel/Documents/shakeel/Screenshot (77).png)
 
 ### Results
 
